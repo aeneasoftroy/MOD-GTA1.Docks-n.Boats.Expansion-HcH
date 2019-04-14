@@ -8,11 +8,9 @@ When this patch is applied, the city .CMP files are modified to include new slop
                                                                             
 ### Installation:
 This expansion mod comes in the form of a patcher:                       
-1. Copy the map .CMP files from the GTADATA directory to this directory   
-2. Run the file "PATCH_ALL.bat" as administrator, it will patch the .CMPs 
-OPTIONALLY: You can run MIAMI.CMP-patch.bat, NYC.CMP-patch.bat or        
-            SANB.CMP-patch.bat to patch a single .CMP level file.        
-3. Check the output on the screen to see if all went well                 
+1. Copy the map .CMP files from the GTADATA directory to this directory.
+2. Run the file "PATCH_ALL.bat" as administrator, it will patch the .CMPs. OPTIONALLY: You can run MIAMI.CMP-patch.bat, NYC.CMP-patch.bat or SANB.CMP-patch.bat to patch a single .CMP level file.
+3. Check the output on the screen to see if all went well.
 4. Copy the modded .CMP files to your GTADATA directory, and play!        
 
 ![Alt text](https://github.com/aeneasoftroy/MOD-GTA1.Docks-n.Boats.Expansion-HcH/blob/master/GTA1.Docks'n.Boats.Expansion-HcH.png)
