@@ -1,5 +1,5 @@
 # MOD-GTA1.Docks-n.Boats.Expansion-HcH
-![Alt text](https://github.com/aeneasoftroy/MOD-GTA1.Docks-n.Boats.Expansion-HcH/blob/master/HcH NFO.png)
+![Alt text](https://github.com/aeneasoftroy/MOD-GTA1.Docks-n.Boats.Expansion-HcH/blob/master/HcH.NFO.png)
 This mod adds boats and docks to 3 levels of GTA1, it's been tested on the original release and the steam release of GTA1.                      
                                                                             
 When this patch is applied, the city .CMP files are modified to include new sloped areas, harbors and docks around all the cities, including the new boat vehicle on many areas, just explore to see where all the new places are, these are easily explorable since they're always near the rivers or sea in the game.                                           
